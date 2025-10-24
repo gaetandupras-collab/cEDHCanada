@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-eagle-funky-52071999.figma.site	TRUE	/	FALSE	1999999999	__cf_bm	zs4vDYPbcaZ2pCbo.3I98cLYUPZ6_0eZud5rnM3e82Y-1761306215.3129478-1.0.1.1-kkxXJDZ8pWFqNwPIRz.GkImp4sLq.DxEwpdyGTLA0.JN8QxwAKDEpnCWomi7RjPh3tJhoF2hIW31jItcmSnZJIGoifJZ5o8fFI58jhXnOPmbmpLQh3De6IF3ULc78ehL
-
